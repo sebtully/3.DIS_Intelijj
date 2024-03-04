@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/3.DIS Intelijj.iml" filepath="$PROJECT_DIR$/3.DIS Intelijj.iml" />
+      <module fileurl="file://$PROJECT_DIR$/L02-Applikationslaget_Socket/L02-Applikationslaget_Socket.iml" filepath="$PROJECT_DIR$/L02-Applikationslaget_Socket/L02-Applikationslaget_Socket.iml" />
+      <module fileurl="file://$PROJECT_DIR$/L03-Transportlaget/L03-Transportlaget.iml" filepath="$PROJECT_DIR$/L03-Transportlaget/L03-Transportlaget.iml" />
+      <module fileurl="file://$PROJECT_DIR$/L04-SocketProgrammering/L04-SocketProgrammering.iml" filepath="$PROJECT_DIR$/L04-SocketProgrammering/L04-SocketProgrammering.iml" />
+      <module fileurl="file://$PROJECT_DIR$/L05_Netvaerkslaget/L05_Netvaerkslaget.iml" filepath="$PROJECT_DIR$/L05_Netvaerkslaget/L05_Netvaerkslaget.iml" />
+      <module fileurl="file://$PROJECT_DIR$/L06-Netvaerksspil/L06-Netvaerksspil.iml" filepath="$PROJECT_DIR$/L06-Netvaerksspil/L06-Netvaerksspil.iml" />
+    </modules>
+  </component>
+</project>
